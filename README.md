@@ -1,7 +1,6 @@
 # x-ui_backup
 
 
+**This version is outdated and please use this version**
 
-```
-bash <(curl -Ls https://raw.githubusercontent.com/AC-Lover/x-ui_backup/main/backup-xui.sh)
-``` 
+https://github.com/AC-Lover/backup
